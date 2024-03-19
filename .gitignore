@@ -1,0 +1,6 @@
+#PYTHON GITIGNORE
+
+.venv
+__pycache__
+*.pyc
+
